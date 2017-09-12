@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  hide facebook biz pages in chat
 // @author       rluks
-// @match        https://www.facebook.com/
+// @match        https://www.facebook.com/*
 // @grant        none
 // ==/UserScript==
 
